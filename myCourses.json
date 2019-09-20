@@ -2,7 +2,7 @@
   "student": "Evelyn Yeung",
   "timestamp": "2019-09-20T15:25:10+0000",
   "count": 6,
-  "version: "1.0.0",
+  "version": "1.0.0",
   "data": [
     { "id": 0, "courseCode": "JAC444", "courseName": "Introduction to Java for C++ Programmers" }, 
     { "id": 1, "courseCode": "BCI433", "courseName": "IBM Business Computing" },
