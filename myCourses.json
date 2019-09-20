@@ -1,0 +1,17 @@
+{ 
+  "student": "Evelyn Yeung",
+  "timestamp": "2019-09-20T15:25:10+0000",
+  "count": 6,
+  "version: "1.0.0",
+  "data": [
+    { "id": 0, "courseCode": "JAC444", "courseName": "Introduction to Java for C++ Programmers" }, 
+    { "id": 1, "courseCode": "BCI433", "courseName": "IBM Business Computing" },
+    { "id": 2, "courseCode": "DSA555", "courseName": "Data Structures and Algorithms" }, 
+    { "id": 3, "courseCode": "OSD600", "courseName": "Open Source Development" },
+    { "id": 4, "courseCode": "MAP523", "courseName": "Mobile App Development for iOS" },
+    { "id": 5, "courseCode": "SYS466", "courseName": "Analysis and Design" }, 
+    { "id": 6, "courseCode": "WEB422", "courseName": "Web Programming for Apps and Services" }, 
+    { "id": 7, "courseCode": "DBW624", "courseName": "Introduction to Datawarehousing" },
+    { "id": 8, "courseCode": "CUL133", "courseName": "India: From Maharajas to Gandhi" } 
+  ]
+}
